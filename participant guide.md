@@ -4,6 +4,13 @@ Here's everything you need to know to participate and be eligable for awards.
 
 The HackaLearn starts with a kickoff event, followed by a whole week for working on the applications.
 
+## Your HackaLearn event
+Each HackaLearn event is organized within a community. 
+The events vary in length, content, and more. 
+The event may add awards and prizes with other requisites.
+Check your event page for more details.
+[List of HackaLearn Events]()
+
 ## Checklist for winning awards
 
 During the first 8 hours you must 
@@ -18,8 +25,6 @@ Within 7 days you must
 - comment on the issue you've created providing a link to the post you've just published
 
 We'll track the issues and send you an Azure Hero badger with instructions to claim your award.
-
-The event may add awards and prizes with other requisites - check your event page.
 
 ## Hacking in groups
 You may join a group for building the application. 
