@@ -9,11 +9,11 @@ The ideas for the applications can come from the participants or anywhere else. 
 HackaLearns are organized by developers and tech communities. Usually there's a kickoff event spanning an evening or a whole day. Then the participants can work on their ideas and continue learning for another week. Finally, the participants will come together again for a show-off session. 🤩
 
 The organizers know best how to involve and engage their community members, so they can adopt the idea and tweak it as necessary. 
-We ([Microsoft Cloud Advocates](https://developer.microsoft.com/en-us/advocates/)) are here to suggest the basic structure, resources, rewards, and our help as much as we can.
+We ([Microsoft Cloud Advocates](https://developer.microsoft.com/advocates/?WT.mc_id=javascript-0000-shjacobs)) are here to suggest the basic structure, resources, rewards, and our help as much as we can.
 
 ### Hack
 Bring your own idea or get inspired by others' in the [idea board](). Team up with a group or hack by yourself. Whatever works for you at the moment.
-Build a Web Applications which you can deploy with [Azure Static Web Apps (Preview)](https://docs.microsoft.com/en-us/azure/static-web-apps/overview).
+Build a Web Applications which you can deploy with [Azure Static Web Apps (Preview)](https://docs.microsoft.com/azure/static-web-apps/overview?WT.mc_id=javascript-0000-shjacobs).
 You can use additional services by Azure ([Cosmos DB](), [Signal IR](), etc.), Microsoft ([M365](), [Power Platform](), etc.) or third-party.
 Each community or event can involve a specific framework or service (i.e. Angular, GraphQL). We have no constraints here. 
 
