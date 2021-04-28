@@ -15,9 +15,9 @@ Check your event page for more details.
 
 During the first 8 hours you must 
 - create a GitHub repo (public or private) for your application
-- deploy your application with [Azure Static Web Apps]() (you may need to [open an Azure account]() for this)
+- deploy your application with [Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/?WT.mc_id=javascript-20968-shjacobs) (you may need to [open an Azure account](https://azure.microsoft.com/en-us/free/open-source/?WT.mc_id=javascript-20968-shjacobs) for this)
 - Complete one Learn Module from the [HackaLearn Learning Path]() (or another one if you've done them before)
-- [Creat an issue]() in this repo providing links to the achievements listed above using the [achievements template]().
+- [Create an issue](../../issues) in this repo providing links to the achievements listed above using the [achievements template]().
 
 Within 7 days you must
 - deploy another version of your application (hopefully a working version of your app)
