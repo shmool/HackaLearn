@@ -4,7 +4,7 @@ First and foremost, thank you for organizing a HackaLearn event! (Or, at least, 
 This is a great opportunity to engage and bring value to your community. 
 And we're not talking only about the awards :)
 
-Please read the [participant guide](participant_guide.md) and [Code of Conduct]().
+Please read the [participant guide](participant_guide.md) and [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## How does it work?
 
