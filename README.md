@@ -40,8 +40,8 @@ We encourage sharing your questions, learnings, ideas, knowledge and experience 
 Some events will have mentors, lightning talks, and various activities to get you focused and motivated. Check out the [news section](#news) to find call for speakers and mentors.
 
 ### Give Back
-No, we're not asking for donation 😊  There are two ways you can give back:
-- Share your experience in social media. It can be as short as a [tweet](https://twitter.com/intent/tweet?text=So%20much%20fun!&hashtags=HackaLearn) or as long as a HackaLearn Twitch broadcast 😄 This is another one of the requisits for [winning awards](#awards).
+No, we're not asking for donation 😊. There are two ways you can give back:
+- Share your experience in social media. It can be as short as a [tweet](https://twitter.com/intent/tweet?text=So%20much%20fun!&hashtags=HackaLearn) or as long as a HackaLearn Twitch broadcast 😄. This is another one of the requisits for [winning awards](#awards).
 - Send us your [feedback](../../issues/new?labels=feedback) about HackaLearn and the services you've used. Help us improve the products, which will help you in return. 💞
 
 ## Awards
