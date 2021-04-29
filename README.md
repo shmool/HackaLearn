@@ -1,4 +1,6 @@
+![image](https://user-images.githubusercontent.com/4953875/116519708-1a228300-a8d2-11eb-870e-7bb4683e47b5.png)
 # HackaLearn
+
 Hack & Learn & turn your ideas into reality
 
 ### Check out the [latest news](news.md) for upcoming events and call for mentors and speakers.
@@ -13,6 +15,9 @@ HackaLearns are organized by tech communities. Usually there's a kickoff event s
 
 The organizers know best how to involve and engage their community members, so they can adopt the idea and tweak it as necessary. 
 We ([Microsoft Cloud Advocates](https://developer.microsoft.com/advocates/?WT.mc_id=javascript-20968-shjacobs)) are here to suggest the basic structure, resources, rewards, and our help as much as we can.
+
+- Would you like to **organize** a HackaLearn? Read the [organizer guide](organizer_guide.md).
+- Would you like to **participate**? Check out the [latest news](news.md), find your event and read the [participant guide](participant_guide.md).
 
 ### Hack
 Bring your own idea or get inspired by others' in the [idea board](../../labels/app%20idea). Team up with a group or hack by yourself. Whatever works for you at the moment.
