@@ -39,7 +39,7 @@ Basic knowledge in HTML and JavaScript/TypeScript is required.
 
 During the week you will keep working on the apps.
 
-### Sunday, May 30th, 🕛 -> 🕐
+### Sunday, May 30th 🕛 -> 🕐
 - 12:00-13:00 Show off session (display your work and get prizes)
 
 ## What's in the learning menu
