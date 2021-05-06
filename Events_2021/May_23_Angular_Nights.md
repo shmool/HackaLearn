@@ -26,15 +26,15 @@ The Angular hands-on sessions will be for beginners in Angular. However, experie
 
 Basic knowledge in HTML and JavaScript/TypeScript is required.
 
-## Agenda
-9:00 - 9:15 - online mingling (virtual space, real coffee ;) )
-9:15 - 9:30 - intro to HackaLearn and Azure Static Web Apps
-9:30 - 10:30 - hands-on workshop: Angular for beginners
-10:30 - 12:30 - hacking
-12:30 - 13:00 - hands-on workshop: Angular Material
-13:00 - 15:00 - hacking
-15:00 - 15:45 - hands-on workshop: API + DB + Auth
-15:45 - 16:00 - day 1 closing
+## Agenda (tentative) 🕘 -> 🕓
+- 9:00-9:15 - online mingling (virtual space, real coffee ;) )
+- 9:15-9:30 - intro to HackaLearn and Azure Static Web Apps
+- 9:30-10:30 - hands-on workshop: Angular for beginners
+- 10:30-12:30 - hacking
+- 12:30-13:00 - hands-on workshop: Angular Material
+- 13:00-15:00 - hacking
+- 15:00-15:45 - hands-on workshop: API + DB + Auth
+- 15:45-16:00 - day 1 closing
 
 During the week you will keep working on the apps.
 
