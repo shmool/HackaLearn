@@ -26,7 +26,8 @@ The Angular hands-on sessions will be for beginners in Angular. However, experie
 
 Basic knowledge in HTML and JavaScript/TypeScript is required.
 
-## Agenda (tentative) 🕘 -> 🕓
+## Agenda (tentative) 
+### Sunday, May 23rd 🕘 -> 🕓
 - 9:00-9:15 - online mingling (virtual space, real coffee ;) )
 - 9:15-9:30 - intro to HackaLearn and Azure Static Web Apps
 - 9:30-10:30 - hands-on workshop: Angular for beginners
@@ -38,7 +39,8 @@ Basic knowledge in HTML and JavaScript/TypeScript is required.
 
 During the week you will keep working on the apps.
 
-Sunday, May 30th, 12:00 - 13:00: Show off session (display your work and get prizes)
+### Sunday, May 30th, 🕛 -> 🕐
+- 12:00-13:00 Show off session (display your work and get prizes)
 
 ## What's in the learning menu
 
