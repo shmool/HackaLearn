@@ -4,6 +4,7 @@
 - HackaLearn week: May 23-30, 2021
 - Kickoff: May 23, 09:00-16:00 Israel time
 - [Register here](https://www.meetup.com/Angular-Nights/events/277128256/)
+- Call for mentors - [sign up and select your slots](https://calendly.com/hackalearn/hackalearn-angular-nights)
 
 
 ## Angular Nights is pleased to host HackaLearn 2021!
@@ -25,6 +26,11 @@ More information about HackaLearn - https://aka.ms/hackalearn
 The Angular hands-on sessions will be for beginners in Angular. However, experienced Angularists can join as helpers and mentors! (And hack & learn like everyone else.)
 
 Basic knowledge in HTML and JavaScript/TypeScript is required.
+
+## Call for mentors
+Do you have some experience with Angular and/or Azure? (Check out the specific list below.) We'd love your help and support in HackaLearn. You can answer questions and perform code reviews during the workshops on the first day and the whole week when the participants work on their apps. The main goal: bring your experience to empower and motivate the participants!
+
+Select your [mentorship slots](https://calendly.com/hackalearn/hackalearn-angular-nights)  - we suggest 4 half-hour sessions but feel free to have as many as you'd like. Then check your email for furhter instructions. Thank you!
 
 ## Agenda (tentative) 
 ### Sunday, May 23rd 🕘 -> 🕓
@@ -55,7 +61,8 @@ During the week you will keep working on the apps.
 
 ### Microsoft stuff we'll use:
 - Azure Static Web Apps - deploy your app with Auth, API and more
-- Azure Functions - serverless power
+- Azure Functions - serverless power (with TypeScript)
+- Cosmos DB - NoSQL database (with SQL API)
 - Microsoft Clarity - get insights about how users use your app
 
 What you need to prepare: Keep an eye on your email for further instructions. They will be updated here as well.
