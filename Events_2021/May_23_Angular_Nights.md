@@ -4,7 +4,7 @@
 - HackaLearn week: May 30 - June 6, 2021
 - Kickoff: May 30, 09:00-16:00 Israel time
 - [Register here](https://www.meetup.com/Angular-Nights/events/277128256/)
-- Call for mentors - [sign up and select your slots](https://calendly.com/hackalearn/hackalearn-angular-nights)
+- Call for mentors - [sign up and select your slots](https://calendly.com/hackalearn/hackalearn-angular-nights-mentors)
 
 
 ## Angular Nights is pleased to host HackaLearn 2021!
@@ -30,7 +30,7 @@ Basic knowledge in HTML and JavaScript/TypeScript is required.
 ## Call for mentors
 Do you have some experience with Angular and/or Azure? (Check out the specific list below.) We'd love your help and support in HackaLearn. You can answer questions and perform code reviews during the workshops on the first day and the whole week when the participants work on their apps. The main goal: bring your experience to empower and motivate the participants!
 
-Select your [mentorship slots](https://calendly.com/hackalearn/hackalearn-angular-nights)  - we suggest 4 half-hour sessions but feel free to have as many as you'd like. Then check your email for furhter instructions. Thank you!
+Select your [mentorship slots](https://calendly.com/hackalearn/hackalearn-angular-nights-mentors)  - we suggest 4 half-hour sessions but feel free to have as many as you'd like. Then check your email for furhter instructions. Thank you!
 
 ## Agenda (tentative) 
 ### Sunday, May 30th 🕘 -> 🕓
