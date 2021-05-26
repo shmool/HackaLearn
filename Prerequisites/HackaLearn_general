@@ -1,0 +1,29 @@
+# Prerequizites for HackaLearn
+
+To enjoy HackaLearn please come with your computer set up with the following:
+
+1. Node.js
+2. npm
+3. Git
+4. GitHub account
+5. IDE (VS-Code for instance)
+
+See further instructions below.
+
+Further prerequisites are subject to the specific event. For instance, framework installation.
+
+## Azure
+In addition, you will be working with Azure. You can open a free account with $200 credit. 
+Some events may supply Azure Passes with which you can open an account with fewer steps (no credit card required). 
+The passes have a limited lifetime, and you can transform the account to a regular free account (with the $200 credit) afterwards. 
+
+## Node.js and npm
+
+Node.js allows running JavaScript code on your computer. 
+Not only does it help when developing servers locally, but it enables many tools that Web-developers work with. 
+
+Node.js comes with npm built in.
+
+Check whether you have the latest version of Node.js and npm. Some tools require a minimal version (you may get an error message when trying to install them).
+
+Install Node.js from the official website: https://nodejs.org/
