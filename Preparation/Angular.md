@@ -63,5 +63,6 @@ in the terminal, when inisde the project folder. (Otherwise, specify the path to
 
 Or, open the IDE, fo to `File --> Open workspace` and select the HackaLearn folder.
 
-
+### VS Code tip
+Install the [Angular Essentials Extension Pack](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials) by John Papa.
 
