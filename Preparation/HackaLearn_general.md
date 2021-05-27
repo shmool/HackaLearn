@@ -27,3 +27,7 @@ Node.js comes with npm built in.
 Check whether you have the latest version of Node.js and npm. Some tools require a minimal version (you may get an error message when trying to install them).
 
 Install Node.js from the official website: https://nodejs.org/
+
+
+## VS-Code
+https://stackoverflow.com/questions/30065227/run-open-vscode-from-mac-terminal
