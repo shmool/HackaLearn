@@ -1,6 +1,6 @@
 # Links
 
-[Cloud Skills Challenge](https://docs.microsoft.com/learn/challenges?id=6d746470-9040-4664-a412-9d8384eef5db?WT.mc_id=javascript-35824-shjacobs&ocid=aid3039247)
+[Cloud Skills Challenge](https://docs.microsoft.com/learn/challenges?id=6d746470-9040-4664-a412-9d8384eef5db&WT.mc_id=javascript-35824-shjacobs&ocid=aid3039247)
 
 [Tutorial](https://shmuela-jacobs.gitbook.io/hackalearn-tutorial/)
 
